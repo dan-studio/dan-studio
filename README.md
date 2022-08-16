@@ -1,5 +1,6 @@
 [![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-studio)](https://github.com/dan-studio/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-studio)](https://github.com/dan-studio/github-readme-stats)
+[![Dan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dan-studio)](https://github.com/dan-studio/github-readme-stats)
 <!--
 **dan-studio/dan-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
