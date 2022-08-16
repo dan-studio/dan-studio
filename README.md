@@ -16,6 +16,7 @@
 <a href="https://velog.io/@danchoi"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://github.com/dan-studio"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div></center>
+
 [![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-studio)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-studio)](https://github.com/anuraghazra/github-readme-stats)
