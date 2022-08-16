@@ -10,8 +10,12 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"/>
 </div>
+
+<div>
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" href="https://velog.io/@danchoi"/>
+</div>
+
 <!--
 **dan-studio/dan-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
