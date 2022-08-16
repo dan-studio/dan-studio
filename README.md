@@ -13,7 +13,7 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" href="https://velog.io/@danchoi"/>
+<a href="https://velog.io/@danchoi"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </div>
 
 <!--
