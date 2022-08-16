@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-studio)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dan-studio/dan-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
