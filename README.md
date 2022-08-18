@@ -3,15 +3,15 @@
 <center>
 <h2>🛠 Tech Stack ⚙️</h2>
 <div>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square=MongoDB&logoColor=white"/>
 
 </div>
 
