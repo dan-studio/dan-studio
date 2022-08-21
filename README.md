@@ -21,6 +21,7 @@
 
 <h2>👨‍💻 Blog&Git 📖</h2>
 <div>
+<a href="https://dan-studio.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/></a>
 <a href="https://velog.io/@danchoi"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://github.com/dan-studio"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div></center>
