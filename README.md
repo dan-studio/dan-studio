@@ -1,4 +1,18 @@
-
+<h1>About Myself</h1>
+Hey!<br>
+Welcome to Dan-Studio!<br>
+My name is Daniel(Junmook), <br>
+currently studying Front-end Web Development.<br>
+I like creating things such as Web and designing it.<br>
+Sometimes I film about the places I've been, <br>
+and edit them into a video while I travel.<br>
+Also I like to take portraits with a camera.<br>
+When I combine all these creative things that I like<br>
+I feel like I'm at a formless studio.<br>
+So that's why I call this creative studio, <br>
+Dan-Studio!<br>
+<img src="https://user-images.githubusercontent.com/78805018/194630145-cb3112df-d94b-4c32-a30d-ea32153a15d9.jpeg" width="400"/>
+cheers!
 
 <center>
 <h2>🛠 Tech Stack 💻</h2>
