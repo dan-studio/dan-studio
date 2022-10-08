@@ -1,19 +1,23 @@
 <h1>About Myself</h1>
-Hey!<br>
-Welcome to Dan-Studio!<br>
-My name is Daniel(Junmook), <br>
-currently studying Front-end Web Development.<br>
-I like creating things such as Web and designing it.<br>
-Sometimes I film about the places I've been, <br>
-and edit them into a video while I travel.<br>
-Also I like to take portraits with a camera.<br>
-When I combine all these creative things that I like<br>
-I feel like I'm at a formless studio.<br>
-So that's why I call this creative studio, <br>
+<div align="center">
+<h3>Hey!👋</h3>
+<h3>Welcome to Dan-Studio!😉<br>
+My name is Daniel(Junmook), 🙋‍♂️<br>
+currently studying Front-end Web Development.💻<br>
+I like creating things such as Web. And designing it too.👨‍💻💅<br>
+Sometimes I film about the places I've been,🎥 <br>
+and edit them into a video while I travel.🎬<br>
+Also I like to take portraits with a camera,📸<br>
+and making some house beats on Logic Pro.🎧🥁<br>
+When I combine all these creative things that I like🤩<br>
+I feel like I'm at a formless studio.🎙<br>
+So that's why I call my small world, 🗺<br>
 Dan-Studio!<br>
-<img src="https://user-images.githubusercontent.com/78805018/194630145-cb3112df-d94b-4c32-a30d-ea32153a15d9.jpeg" width="400"/>
-cheers!
+</h3>
 
+<img src="https://user-images.githubusercontent.com/78805018/194630145-cb3112df-d94b-4c32-a30d-ea32153a15d9.jpeg" width="400"/><br>
+<h3>CHEERS!!</h3>
+</div>
 <center>
 <h2>🛠 Tech Stack 💻</h2>
 <div>
