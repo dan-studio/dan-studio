@@ -22,10 +22,11 @@ Dan-Studio!<br>
 <h2>🛠 Tech Stack 💻</h2>
 <div>
 
-## Front End 🖼
+### Front End 🖼
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
@@ -33,7 +34,7 @@ Dan-Studio!<br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 <br/>
 
-## Back End ⚙️
+### Back End ⚙️
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="ExpressJS" />
@@ -44,8 +45,8 @@ Dan-Studio!<br>
 
 <h2>👨‍💻 Blog&Git 📖</h2>
 <div>
-<a href="https://dan-studio.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/></a>
-<a href="https://github.com/dan-studio"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://dan-studio.github.io"><img src="https://dan-studio.github.io/assets/logo.ico/android-chrome-192x192.png" height="36" width="36"/></a>
+<a href="https://github.com/dan-studio"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="36" witdh="36"/></a>
 </div></center>
 <br>
 
