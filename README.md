@@ -31,10 +31,10 @@
 </div></center>
 <br>
 
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) 
 ## Contributes
 
-![contributes](./profile-3d-contrib/profile-night-green.svg)
+![contributes](./profile-3d-contrib/profile-night-green.svg)-->
 
 
 <!--[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-studio)](https://github.com/anuraghazra/github-readme-stats)-->
