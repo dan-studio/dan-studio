@@ -1,23 +1,4 @@
-<h1>About Myself</h1>
-<div align="center">
-<h3>Hey!👋</h3>
-<h3>Welcome to Dan-Studio!😉<br>
-My name is Daniel(Junmook), 🙋‍♂️<br>
-currently studying Front-end Web Development.💻<br>
-I like creating things such as Web. And designing it too.👨‍💻💅<br>
-Sometimes I film about the places I've been,🎥 <br>
-and edit them into a video while I travel.🎬<br>
-Also I like to take portraits with a camera,📸<br>
-and making some house beats on Logic Pro.🎧🥁<br>
-When I combine all these creative things that I like🤩<br>
-I feel like I'm at a formless studio.🎙<br>
-So that's why I call my small world, 🗺<br>
-Dan-Studio!<br>
-</h3>
 
-<img src="https://user-images.githubusercontent.com/78805018/194630145-cb3112df-d94b-4c32-a30d-ea32153a15d9.jpeg" width="400"/><br>
-<h3>CHEERS!!</h3>
-</div>
 <center>
 <h2>🛠 Tech Stack 💻</h2>
 <div>
@@ -45,7 +26,7 @@ Dan-Studio!<br>
 
 <h2>👨‍💻 Blog&Git 📖</h2>
 <div>
-<a href="https://dan-studio.github.io"><img src="https://dan-studio.github.io/assets/logo.ico/android-chrome-192x192.png" height="36" width="36"/></a>
+<a href="https://danstudio.notion.site/Dan-Studio-1cc9bcd9b7f547c1be4d8eac5426e169"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png?20220918151013" height="36" width="36"/></a>
 <a href="https://github.com/dan-studio"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="36" witdh="36"/></a>
 </div></center>
 <br>
