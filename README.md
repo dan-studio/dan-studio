@@ -27,7 +27,7 @@
 
 <h2>👨‍💻 Blog&Git 📖</h2>
 <div>
-<a href="https://danstudio.notion.site/Dan-Studio-1cc9bcd9b7f547c1be4d8eac5426e169"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png?20220918151013" height="36" width="36"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png?20220918151013" height="36" width="36"/></a>
 <a href="https://github.com/dan-studio"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="36" witdh="36"/></a>
 </div></center>
 <br>
